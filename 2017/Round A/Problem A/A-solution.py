@@ -1,7 +1,3 @@
-
-# Problem A. Square Counting
-# https://code.google.com/codejam/contest/8284486/dashboard#s=p0
-
 T = int(input())
 for t in range(T):
     R, C = map(int, input().split())
