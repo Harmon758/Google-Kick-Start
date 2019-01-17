@@ -1,7 +1,3 @@
-
-# Problem A. Math Encoder
-# https://code.google.com/codejam/contest/11304486/dashboard#s=p0
-
 powers_of_2 = [1]
 for i in range(1, 10000):
     powers_of_2.append(2 * powers_of_2[-1])
