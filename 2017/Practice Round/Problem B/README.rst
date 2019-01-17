@@ -55,6 +55,7 @@ Sample
 ::
 
     Input   Output
+    
     2       Case #1: 0.33333333
     2 1     Case #2: 1.00000000
     1 0
