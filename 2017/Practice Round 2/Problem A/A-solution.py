@@ -1,7 +1,3 @@
-
-# Problem A. Diwali lightings
-# https://code.google.com/codejam/contest/12254486/dashboard#s=p0
-
 T = int(input())
 for t in range(T):
     S = input()
