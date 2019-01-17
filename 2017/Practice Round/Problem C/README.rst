@@ -69,6 +69,7 @@ Sample
 ::
 
     Input   Output
+    
     3       Case #1: 0
     1 0     Case #2: 1
     1 1     Case #3: 3
