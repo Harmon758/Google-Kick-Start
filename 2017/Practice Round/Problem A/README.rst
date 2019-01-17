@@ -55,6 +55,7 @@ Sample
 ::
 
     Input       Output
+    
     2           Case #1: JOHNSON
     3           Case #2: A AB C
     ADAM
