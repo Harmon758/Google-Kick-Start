@@ -1,7 +1,7 @@
-.. _Problem B. Vote: https://code.google.com/codejam/contest/6304486/dashboard#s=p1
+.. _Problem A. Vote: https://code.google.com/codejam/contest/5264486/dashboard#s=p0
 
 ==================
-`Problem B. Vote`_
+`Problem A. Vote`_
 ==================
 
 Problem
