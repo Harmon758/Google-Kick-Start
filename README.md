@@ -3,11 +3,17 @@
 Previously known as [Google Code Jam Kickstart](https://code.google.com/codejam/kickstart/)
 and [APAC University Graduates Test](https://code.google.com/codejam/apactest)
 
+## [2016](2016)
+
+### [Round A](2016/Round%20A)
+
+- [Problem A. Country Leader](2016/Round%20A/Problem%20A)
+
 ## [2017](2017)
 
 ### [Practice Round](2017/Practice%20Round)
 
-- [Problem A. Country Leader](2017/Practice%20Round/Problem%20A)
+- Problem A. Country Leader (See [2016 Round A Problem A](2016/Round%20A/Problem%20A))
 - [Problem B. Vote](2017/Practice%20Round/Problem%20B)
 - [Problem C. Sherlock and Parentheses](2017/Practice%20Round/Problem%20C)
 
