@@ -1,7 +1,7 @@
-.. _Problem C. Beautiful Numbers: https://code.google.com/codejam/contest/12254486/dashboard#s=p2
+.. _Problem B. Beautiful Numbers: https://code.google.com/codejam/contest/5264487/dashboard#s=p1
 
 ===============================
-`Problem C. Beautiful Numbers`_
+`Problem B. Beautiful Numbers`_
 ===============================
 
 Problem
