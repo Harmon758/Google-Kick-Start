@@ -1,4 +1,4 @@
-.. _Problem A. Country Leader: https://code.google.com/codejam/contest/6304486/dashboard#s=p0
+.. _Problem A. Country Leader: https://code.google.com/codejam/contest/11274486/dashboard#s=p0
 
 ============================
 `Problem A. Country Leader`_
