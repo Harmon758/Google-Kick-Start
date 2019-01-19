@@ -8,7 +8,7 @@ and [APAC University Graduates Test](https://code.google.com/codejam/apactest)
 ### [Practice Round](2017/Practice%20Round)
 
 - Problem A. Country Leader (See [2016 Round A Problem A](2016/Round%20A/Problem%20A))
-- [Problem B. Vote](2017/Practice%20Round/Problem%20B)
+- Problem B. Vote (See [2016 Round D Problem A](2016/Round%20D/Problem%20A))
 - [Problem C. Sherlock and Parentheses](2017/Practice%20Round/Problem%20C)
 
 ### [Round A](2017/Round%20A)
@@ -30,3 +30,7 @@ and [APAC University Graduates Test](https://code.google.com/codejam/apactest)
 ### [Round A](2016/Round%20A)
 
 - [Problem A. Country Leader](2016/Round%20A/Problem%20A)
+
+### [Round D](2016/Round%20D)
+
+- [Problem A. Vote](2016/Round%20D/Problem%20A)
