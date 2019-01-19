@@ -21,7 +21,7 @@ and [APAC University Graduates Test](https://code.google.com/codejam/apactest)
 
 ### [Practice Round 2](2017/Practice%20Round%202)
 
-- [Problem A. Diwali lightings](2017/Practice%20Round%202/Problem%20A)
+- Problem A. Diwali lightings (See [2016 Round E Problem A](2016/Round%20E/Problem%20A))
 - [Problem B. Safe Squares](2017/Practice%20Round%202/Problem%20B)
 - [Problem C. Beautiful Numbers](2017/Practice%20Round%202/Problem%20C)
 
@@ -38,3 +38,7 @@ and [APAC University Graduates Test](https://code.google.com/codejam/apactest)
 ### [Round D](2016/Round%20D)
 
 - [Problem A. Vote](2016/Round%20D/Problem%20A)
+
+### [Round E](2016/Round%20E)
+
+- [Problem A. Diwali lightings](2016/Round%20E/Problem%20A)
