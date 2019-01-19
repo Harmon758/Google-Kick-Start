@@ -1,7 +1,7 @@
-.. _Problem C. Sherlock and Parentheses: https://code.google.com/codejam/contest/6304486/dashboard#s=p2
+.. _Problem A. Sherlock and Parentheses: https://code.google.com/codejam/contest/5254487/dashboard#s=p0
 
 ======================================
-`Problem C. Sherlock and Parentheses`_
+`Problem A. Sherlock and Parentheses`_
 ======================================
 
 Problem
