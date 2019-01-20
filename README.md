@@ -3,6 +3,12 @@
 Previously known as [Google Code Jam Kickstart](https://code.google.com/codejam/kickstart/)
 and [APAC University Graduates Test](https://code.google.com/codejam/apactest)
 
+## [2018](2018)
+
+### [Round H](2018/Round%20H)
+
+- [Problem A. Big Buttons](2018/Round%20H/Problem%20A)
+
 ## [2017](2017)
 
 ### [Practice Round](https://code.google.com/codejam/contest/6304486/dashboard)
