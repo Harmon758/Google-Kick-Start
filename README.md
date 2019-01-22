@@ -38,6 +38,10 @@ and [APAC University Graduates Test](https://code.google.com/codejam/apactest)
 
 ## [2016](2016)
 
+### [Practice Round](https://code.google.com/codejam/contest/5254486/dashboard)
+
+- Problem A. Lazy Spelling Bee (See [2015 Round E Problem A](2015/Round%20E/Problem%20A))
+
 ### [Round A](2016/Round%20A)
 
 - [Problem A. Country Leader](2016/Round%20A/Problem%20A)
@@ -59,6 +63,12 @@ and [APAC University Graduates Test](https://code.google.com/codejam/apactest)
 
 - [Problem A. Diwali lightings](2016/Round%20E/Problem%20A)
 - [Problem B. Beautiful Numbers](2016/Round%20E/Problem%20B)
+
+## [2015](2015)
+
+### [Round E](2015/Round%20E)
+
+- [Problem A. Lazy Spelling Bee](2015/Round%20E/Problem%20A)
 
 ## [2014](2014)
 
