@@ -1,7 +1,7 @@
 # [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
 
 Previously known as [Google Code Jam Kickstart](https://code.google.com/codejam/kickstart/)
-and [APAC University Graduates Test](https://code.google.com/codejam/apactest)
+and [Google APAC University Graduates Test](https://code.google.com/codejam/apactest)
 
 ## [2018](2018)
 
