@@ -72,6 +72,10 @@ and [Google APAC University Graduates Test](https://code.google.com/codejam/apac
 
 ## [2014](2014)
 
+### [Round A](2014/Round%20A)
+
+- [Problem A. Seven-segment Display](2014/Round%20A/Problem%20A)
+
 ### [Round D](2014/Round%20D)
 
 - [Problem B. GBus count](2014/Round%20D/Problem%20B)
