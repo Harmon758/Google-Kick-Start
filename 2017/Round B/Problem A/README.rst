@@ -1,4 +1,5 @@
-.. _Problem A. Math Encoder: https://code.google.com/codejam/contest/11304486/dashboard#s=p0
+.. _Problem A. Math Encoder:
+   https://code.google.com/codejam/contest/11304486/dashboard#s=p0
 
 ==========================
 `Problem A. Math Encoder`_
