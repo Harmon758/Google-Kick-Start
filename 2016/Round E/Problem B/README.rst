@@ -1,4 +1,5 @@
-.. _Problem B. Beautiful Numbers: https://code.google.com/codejam/contest/5264487/dashboard#s=p1
+.. _Problem B. Beautiful Numbers:
+    https://code.google.com/codejam/contest/5264487/dashboard#s=p1
 
 ===============================
 `Problem B. Beautiful Numbers`_
