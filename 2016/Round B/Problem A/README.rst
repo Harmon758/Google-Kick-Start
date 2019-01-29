@@ -1,4 +1,5 @@
-.. _Problem A. Sherlock and Parentheses: https://code.google.com/codejam/contest/5254487/dashboard#s=p0
+.. _Problem A. Sherlock and Parentheses:
+    https://code.google.com/codejam/contest/5254487/dashboard#s=p0
 
 ======================================
 `Problem A. Sherlock and Parentheses`_
