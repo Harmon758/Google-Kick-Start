@@ -1,4 +1,5 @@
-.. _Problem A. Seven-segment Display: https://code.google.com/codejam/contest/3214486/dashboard#s=p0
+.. _Problem A. Seven-segment Display:
+    https://code.google.com/codejam/contest/3214486/dashboard#s=p0
 
 ===================================
 `Problem A. Seven-segment Display`_
