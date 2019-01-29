@@ -1,4 +1,5 @@
-.. _Problem C. Addition: https://code.google.com/codejam/contest/3214486/dashboard#s=p2
+.. _Problem C. Addition:
+    https://code.google.com/codejam/contest/3214486/dashboard#s=p2
 
 ======================
 `Problem C. Addition`_
