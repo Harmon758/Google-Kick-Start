@@ -1,4 +1,5 @@
-.. _Problem C. Watson and Intervals: https://code.google.com/codejam/contest/5254487/dashboard#s=p2
+.. _Problem C. Watson and Intervals:
+    https://code.google.com/codejam/contest/5254487/dashboard#s=p2
 
 ==================================
 `Problem C. Watson and Intervals`_
