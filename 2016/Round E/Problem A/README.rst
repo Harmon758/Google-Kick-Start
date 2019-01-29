@@ -1,4 +1,5 @@
-.. _Problem A. Diwali lightings: https://code.google.com/codejam/contest/5264487/dashboard#s=p0
+.. _Problem A. Diwali lightings:
+    https://code.google.com/codejam/contest/5264487/dashboard#s=p0
 
 ==============================
 `Problem A. Diwali lightings`_
