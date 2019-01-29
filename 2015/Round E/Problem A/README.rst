@@ -1,4 +1,5 @@
-.. _Problem A. Lazy Spelling Bee: https://code.google.com/codejam/contest/8264486/dashboard#s=p0
+.. _Problem A. Lazy Spelling Bee:
+    https://code.google.com/codejam/contest/8264486/dashboard#s=p0
 
 ===============================
 `Problem A. Lazy Spelling Bee`_
