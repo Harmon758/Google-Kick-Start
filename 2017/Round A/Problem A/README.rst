@@ -1,4 +1,5 @@
-.. _Problem A. Square Counting: https://code.google.com/codejam/contest/8284486/dashboard#s=p0
+.. _Problem A. Square Counting:
+    https://code.google.com/codejam/contest/8284486/dashboard#s=p0
 
 =============================
 `Problem A. Square Counting`_
