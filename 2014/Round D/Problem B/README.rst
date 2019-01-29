@@ -1,4 +1,5 @@
-.. _Problem B. GBus count: https://code.google.com/codejam/contest/6214486/dashboard#s=p1
+.. _Problem B. GBus count:
+    https://code.google.com/codejam/contest/6214486/dashboard#s=p1
 
 ========================
 `Problem B. GBus count`_
