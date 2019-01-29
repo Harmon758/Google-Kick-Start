@@ -1,4 +1,5 @@
-.. _Problem A. Vote: https://code.google.com/codejam/contest/5264486/dashboard#s=p0
+.. _Problem A. Vote:
+    https://code.google.com/codejam/contest/5264486/dashboard#s=p0
 
 ==================
 `Problem A. Vote`_
