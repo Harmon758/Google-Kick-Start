@@ -1,4 +1,5 @@
-.. _Problem B. Super 2048: https://code.google.com/codejam/contest/3214486/dashboard#s=p1
+.. _Problem B. Super 2048:
+    https://code.google.com/codejam/contest/3214486/dashboard#s=p1
 
 ========================
 `Problem B. Super 2048`_
