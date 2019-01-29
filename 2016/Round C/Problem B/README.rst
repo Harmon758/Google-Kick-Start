@@ -1,4 +1,5 @@
-.. _Problem B. Safe Squares: https://code.google.com/codejam/contest/6274486/dashboard#s=p1
+.. _Problem B. Safe Squares:
+    https://code.google.com/codejam/contest/6274486/dashboard#s=p1
 
 ==========================
 `Problem B. Safe Squares`_
