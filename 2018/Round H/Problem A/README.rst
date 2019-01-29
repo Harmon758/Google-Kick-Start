@@ -1,4 +1,5 @@
-.. _Problem A. Big Buttons: https://codejam.withgoogle.com/codejam/contest/3324486/dashboard#s=p0
+.. _Problem A. Big Buttons:
+    https://codejam.withgoogle.com/codejam/contest/3324486/dashboard#s=p0
 
 =========================
 `Problem A. Big Buttons`_
