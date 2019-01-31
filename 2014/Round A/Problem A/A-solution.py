@@ -10,7 +10,7 @@ numbers = {0: [True, True, True, True, True, True, False],
            9: [True, True, True, True, False, True, True]}
 
 T = int(input())
-for t in range(T):
+for x in range(1, T + 1):
     states = input().split()
     N = int(states.pop(0))
     possible = {number: [None] * 7 for number in range(10)}
@@ -31,21 +31,20 @@ for t in range(T):
                         break
                     else:
                         possible[number][segment] = False
-    state = ""
+    y = ""
     for number, segments in possible.items():
         number = (number - N) % 10
-        test_state = ""
+        state = ""
         for segment in range(7):
             if numbers[number][segment] and segments[segment] is None:
-                test_state = "ERROR!"
+                state = "ERROR!"
                 break
-            test_state += str(int(numbers[number][segment]
-                                  and segments[segment]))
-        if not state:
-            state = test_state
-        if test_state == "ERROR!" or state != test_state:
-            state = "ERROR!"
+            state += str(int(numbers[number][segment] and segments[segment]))
+        if not y:
+            y = state
+        if state == "ERROR!" or y != state:
+            y = "ERROR!"
             break
-    if not state:
-        state = "ERROR!"
-    print(f"Case #{t + 1}: {state}")
+    if not y:
+        y = "ERROR!"
+    print(f"Case #{x}: {y}")
