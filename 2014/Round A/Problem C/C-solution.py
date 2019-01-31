@@ -1,7 +1,7 @@
 from itertools import combinations_with_replacement as combinations_w_r
 
 T = int(input())
-for t in range(T):
+for t in range(1, T + 1):
     N = int(input())
     equations = {}
     original_equations = {}
@@ -29,7 +29,7 @@ for t in range(T):
             if (y1, y2) in equations and (x1, x2) not in equations:
                 z = z1 + z2 - equations[(y1, y2)]
                 equations[(x1, x2)] = equations[(x2, x1)] = z
-    print(f"Case #{t + 1}:")
+    print(f"Case #{t}:")
     Q = int(input())
     for q in range(Q):
         x, y = input().split('+')
