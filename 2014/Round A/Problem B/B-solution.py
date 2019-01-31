@@ -1,5 +1,5 @@
 T = int(input())
-for t in range(T):
+for x in range(1, T + 1):
     N, DIR = input().split()
     N = int(N)
     board = []
@@ -30,6 +30,6 @@ for t in range(T):
         new_board = [row[::-1] for row in new_board]
     if DIR in ("up", "down"):
         new_board = [list(row) for row in zip(*new_board)]
-    print(f"Case #{t + 1}:")
+    print(f"Case #{x}:")
     for row in new_board:
         print(' '.join(map(str, row)))
