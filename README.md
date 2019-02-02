@@ -77,6 +77,7 @@ and [Google APAC University Graduates Test](https://code.google.com/codejam/apac
 - [Problem A. Seven-segment Display](2014/Round%20A/Problem%20A)
 - [Problem B. Super 2048](2014/Round%20A/Problem%20B)
 - [Problem C. Addition](2014/Round%20A/Problem%20C)
+- [Problem D. Cut Tiles](2014/Round%20A/Problem%20D)
 
 ### [Round D](2014/Round%20D)
 
