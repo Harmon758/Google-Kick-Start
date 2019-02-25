@@ -1,5 +1,5 @@
 T = int(input())
-for t in range(T):
+for x in range(1, T + 1):
     L, R = map(int, input().split())
     pairs = min(L, R)
-    print(f"Case #{t + 1}: {pairs * (pairs + 1) // 2}")
+    print(f"Case #{x}: {pairs * (pairs + 1) // 2}")
