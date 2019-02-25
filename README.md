@@ -3,6 +3,12 @@
 Previously known as [Google Code Jam Kickstart](https://code.google.com/codejam/kickstart/)
 and [Google APAC University Graduates Test](https://code.google.com/codejam/apactest)
 
+## 2019
+
+### [Practice Round](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051060)
+
+- Mural (See [2018 Round H Problem B](2018/Round%20H/Problem%20B))
+
 ## [2018](2018)
 
 ### [Practice Round](https://code.google.com/codejam/contest/4374486/dashboard)
