@@ -3,7 +3,7 @@ import collections
 Endpoint = collections.namedtuple("Endpoint", ["value", "start"])
 
 T = int(input())
-for t in range(T):
+for x in range(1, T + 1):
     N = int(input())
     endpoints = [Endpoint(endpoint + index % 2, not index % 2)
                  for index, endpoint in enumerate(map(int, input().split()))]
@@ -18,7 +18,7 @@ for t in range(T):
         else:
             bus_count -= 1
         last_endpoint = endpoint.value
-    print(f"Case #{t + 1}:", end = "")
+    print(f"Case #{x}:", end = "")
     P = int(input())
     for p in range(P):
         C = int(input())
