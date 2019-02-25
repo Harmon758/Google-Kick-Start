@@ -1,7 +1,7 @@
 import math
 
 T = int(input())
-for t in range(T):
+for x in range(1, T + 1):
     N = int(input())
     B = 0
     for n in range(int(math.log(N, 2)), 1, -1):
@@ -11,4 +11,4 @@ for t in range(T):
             break
     if not B:
         B = N - 1
-    print(f"Case #{t + 1}: {B}")
+    print(f"Case #{x}: {B}")
