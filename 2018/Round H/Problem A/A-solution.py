@@ -1,5 +1,5 @@
 T = int(input())
-for t in range(T):
+for x in range(1, T + 1):
     N, P = map(int, input().split())
     forbidden = []
     for p in range(P):
@@ -11,7 +11,7 @@ for t in range(T):
             if forbidden_copy[i].startswith(f):
                 if forbidden_copy[i] in forbidden:
                     forbidden.remove(forbidden_copy[i])
-    sequences = 2 ** N
+    y = 2 ** N
     for f in forbidden:
-        sequences -= 2 ** (N - len(f))
-    print(f"Case #{t + 1}: {sequences}")
+        y -= 2 ** (N - len(f))
+    print(f"Case #{x}: {y}")
