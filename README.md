@@ -5,6 +5,9 @@ and [Google APAC University Graduates Test](https://code.google.com/codejam/apac
 
 ## 2019
 
+Note: F-strings are not supported on the new platform,
+as it [uses Python 3.5](https://code.google.com/codejam/resources/faq#language-details).
+
 ### [Practice Round](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051060)
 
 - Mural (See [2018 Round H Problem B](2018/Round%20H/Problem%20B))
