@@ -1,7 +1,7 @@
 import itertools
 
 T = int(input())
-for t in range(T):
+for x in range(1, T + 1):
     R, C, K = map(int, input().split())
     grid = [[1] * C for r in range(R)]
     for k in range(K):
@@ -12,4 +12,4 @@ for t in range(T):
             if not grid[r][c]:
                 continue
             grid[r][c] = min(grid[r - 1][c], grid[r][c - 1], grid[r - 1][c - 1]) + 1
-    print(f"Case #{t + 1}: {sum(itertools.chain.from_iterable(grid))}")
+    print(f"Case #{x}: {sum(itertools.chain.from_iterable(grid))}")
