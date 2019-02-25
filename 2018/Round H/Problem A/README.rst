@@ -37,7 +37,7 @@ Output
 ------
 For each test case, output one line containing ``Case #x: y``,
 where ``x`` is the test case number (starting from 1)
-and ``y`` is the number of winning sequences, as desribed above.
+and ``y`` is the number of winning sequences, as desribed [sic] above.
 
 Limits
 ------
