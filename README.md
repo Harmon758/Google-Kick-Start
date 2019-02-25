@@ -12,6 +12,7 @@ and [Google APAC University Graduates Test](https://code.google.com/codejam/apac
 ### [Round H](2018/Round%20H)
 
 - [Problem A. Big Buttons](2018/Round%20H/Problem%20A)
+- [Problem B. Mural](2018/Round%20H/Problem%20B)
 
 ## [2017](2017)
 
