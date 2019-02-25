@@ -1,12 +1,12 @@
 T = int(input())
-for t in range(T):
+for x in range(1, T + 1):
     N = int(input())
-    leader = input()
-    greatest = len(set(leader.replace(" ", "")))
+    y = input()
+    greatest = len(set(y.replace(" ", "")))
     for i in range(N - 1):
         name = input()
         count = len(set(name.replace(" ", "")))
-        if count > greatest or (count == greatest and name < leader):
+        if count > greatest or (count == greatest and name < y):
             greatest = count
-            leader = name
-    print(f"Case #{t + 1}: {leader}")
+            y = name
+    print(f"Case #{x}: {y}")
