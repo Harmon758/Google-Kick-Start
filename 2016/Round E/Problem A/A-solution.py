@@ -1,12 +1,12 @@
 T = int(input())
-for t in range(T):
+for x in range(1, T + 1):
     S = input()
     I, J = map(int, input().split())
-    count = (J - I) // len(S) * S.count('B')
+    y = (J - I) // len(S) * S.count('B')
     initial_index = (I - 1) % len(S)
     final_index = (J - 1) % len(S)
     if final_index >= initial_index:
-        count += S[initial_index:final_index + 1].count('B')
+        y += S[initial_index:final_index + 1].count('B')
     else:
-        count += S[:final_index + 1].count('B') + S[initial_index:].count('B')
-    print(f"Case #{t + 1}: {count}")
+        y += S[:final_index + 1].count('B') + S[initial_index:].count('B')
+    print(f"Case #{x}: {y}")
