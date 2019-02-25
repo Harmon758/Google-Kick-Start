@@ -3,7 +3,7 @@ import collections
 Endpoint = collections.namedtuple("Endpoint", ["index", "value", "start"])
 
 T = int(input())
-for t in range(T):
+for t in range(1, T + 1):
     N, L1, R1, A, B, C1, C2, M = map(int, input().split())
     endpoints = [Endpoint(0, L1, True), Endpoint(0, R1 + 1, False)]
     for i in range(1, N):
@@ -31,4 +31,4 @@ for t in range(T):
             total_integers += endpoint.value - interval_start.value
         elif len(current_intervals) == 1:
             unique_start = endpoint
-    print(f"Case #{t + 1}: {total_integers - max(unique_integers.values())}")
+    print(f"Case #{t}: {total_integers - max(unique_integers.values())}")
