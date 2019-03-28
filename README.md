@@ -3,7 +3,7 @@
 Previously known as [Google Code Jam Kickstart](https://code.google.com/codejam/kickstart/)
 and [Google APAC University Graduates Test](https://code.google.com/codejam/apactest)
 
-## 2019
+## [2019](2019)
 
 Note: F-strings are not supported on the new platform,
 as it [uses Python 3.5](https://code.google.com/codejam/resources/faq#language-details).
@@ -11,6 +11,10 @@ as it [uses Python 3.5](https://code.google.com/codejam/resources/faq#language-d
 ### [Practice Round](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051060)
 
 - Mural (See [2018 Round H Problem B](2018/Round%20H/Problem%20B))
+
+### [Round A](2019/Round%20A)
+
+- [Training](2019/Round%20A/Training)
 
 ## [2018](2018)
 
