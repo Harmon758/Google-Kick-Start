@@ -16,6 +16,10 @@ as it [uses Python 3.5](https://code.google.com/codejam/resources/faq#language-d
 
 - [Training](2019/Round%20A/Training)
 
+### [Round B](2019/Round%20B)
+
+- [Building Palindromes](2019/Round%20B/Building%20Palindromes)
+
 ## [2018](2018)
 
 ### [Practice Round](https://code.google.com/codejam/contest/4374486/dashboard)
