@@ -100,3 +100,11 @@ as it [uses Python 3.5](https://code.google.com/codejam/resources/faq#language-d
 ### [Round D](2014/Round%20D)
 
 - [Problem B. GBus count](2014/Round%20D/Problem%20B)
+
+## [2013](2013)
+
+Previously known as Google of Greater China Test for New Grads of 2014
+
+### [Round A](2013/Round%20A)
+
+- [Problem A. Read Phone Number](2013/Round%20A/Problem%20A)
