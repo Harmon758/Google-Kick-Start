@@ -1,0 +1,100 @@
+Case #1: one
+Case #2: double two
+Case #3: triple three
+Case #4: quadruple four
+Case #5: quintuple five
+Case #6: sextuple six
+Case #7: septuple seven
+Case #8: octuple eight
+Case #9: nonuple nine
+Case #10: decuple zero
+Case #11: one one one one one one one one one one
+Case #12: one double one triple one quadruple one
+Case #13: six seven zero one six zero four zero one four
+Case #14: four zero nine six four five three one seven eight
+Case #15: five four one eight one four eight one eight zero
+Case #16: two three one nine six five two zero four one
+Case #17: nine six four five six eight four six four six
+Case #18: four five zero eight four five six nine six nine
+Case #19: one eight three nine seven nine one six zero nine
+Case #20: nine three nine eight seven five zero eight zero two
+Case #21: five two six three nine five zero eight three five
+Case #22: one four five six one eight seven zero eight nine
+Case #23: six four three six zero six nine zero
+Case #24: seven three six seven
+Case #25: two double four one seven three nine
+Case #26: seven five three two one seven nine
+Case #27: zero eight five zero double six four
+Case #28: eight zero one double three three four
+Case #29: zero one eight four zero double eight
+Case #30: seven zero six one eight one four two eight
+Case #31: nine eight five three zero
+Case #32: two nine double six four
+Case #33: four nine five zero two
+Case #34: one five
+Case #35: five six two six four double zero three eight
+Case #36: double one four eight nine seven nine
+Case #37: seven double nine eight two
+Case #38: seven six nine
+Case #39: one seven four double two three four
+Case #40: eight one eight one eight four four seven
+Case #41: five
+Case #42: eight six
+Case #43: zero five seven three nine one three six zero nine
+Case #44: four nine double seven seven two seven three eight
+Case #45: two two five two nine three one
+Case #46: one nine six six four
+Case #47: five double six one seven five
+Case #48: nine two four three three
+Case #49: nine one two zero three nine five six seven
+Case #50: four eight two zero eight four one
+Case #51: seven one
+Case #52: four six nine zero
+Case #53: one zero double six two four
+Case #54: seven nine quadruple zero five
+Case #55: four zero seven
+Case #56: double seven three eight six seven two eight nine five
+Case #57: zero two seven three two six two four four
+Case #58: double one five eight five five
+Case #59: six double five three seven nine four
+Case #60: four two six one eight five four one seven
+Case #61: three one
+Case #62: six eight
+Case #63: zero five six five eight seven one six
+Case #64: eight seven
+Case #65: double nine three two nine
+Case #66: two one
+Case #67: eight two
+Case #68: three two seven three two five six five four nine
+Case #69: four
+Case #70: zero
+Case #71: seven eight zero four zero nine
+Case #72: two five two nine double six one four zero
+Case #73: three four one six seven zero eight two four three
+Case #74: seven one five
+Case #75: seven one four eight six zero one two seven
+Case #76: one four eight seven two five
+Case #77: one three zero
+Case #78: five nine six nine six six four five
+Case #79: double two one zero six five
+Case #80: five seven seven one five one six two
+Case #81: double one zero
+Case #82: seven five three seven three six seven
+Case #83: nine five two double six eight one two zero five
+Case #84: zero eight one eight five nine three seven two nine
+Case #85: seven two nine eight triple zero eight one
+Case #86: two one two four
+Case #87: seven zero four five
+Case #88: six three one seven four zero six
+Case #89: nine double two nine zero six eight three five
+Case #90: double five
+Case #91: seven zero nine eight five eight two six
+Case #92: one six one nine four double nine three one four
+Case #93: eight nine three seven five
+Case #94: six double five one six two
+Case #95: one eight zero nine zero two
+Case #96: three nine one zero six
+Case #97: eight two three six one three five two
+Case #98: three nine
+Case #99: six three
+Case #100: one six seven four eight
