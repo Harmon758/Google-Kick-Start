@@ -20,6 +20,10 @@ as it [uses Python 3.5](https://code.google.com/codejam/resources/faq#language-d
 
 - [Building Palindromes](2019/Round%20B/Building%20Palindromes)
 
+### [Round G](2019/Round%20G)
+
+- [Book Reading](2019/Round%20G/Book%20Reading)
+
 ## [2018](2018)
 
 ### [Practice Round](https://code.google.com/codejam/contest/4374486/dashboard)
