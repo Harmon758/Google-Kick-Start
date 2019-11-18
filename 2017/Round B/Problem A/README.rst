@@ -7,10 +7,10 @@
 
 Problem
 -------
-Professor Math is working on a secret project and is facing a challenge where
-a list of numbers need to be encoded into a single number in the most
-efficient manner. After much research, Professor Math finds a 3 step process
-that can best encode the numbers:
+Professor Math is working on a secret project and is facing a challenge where a
+list of numbers need to be encoded into a single number in the most efficient
+manner. After much research, Professor Math finds a 3 step process that can
+best encode the numbers:
 
 1. The first step is to find all possible non-empty subsets of the list of
    numbers and then, for each subset, find the difference between the largest
@@ -24,19 +24,19 @@ that can best encode the numbers:
 
 .. |10^9| replace:: 10\ :sup:`9`
 
-The professor has shared an example and its explanation below.
-Given a list of numbers, can you help the professor build an efficient
-function to compute the final encoded number?
+The professor has shared an example and its explanation below. Given a list of
+numbers, can you help the professor build an efficient function to compute the
+final encoded number?
 
 Input
 -----
-The first line of the input gives the number of test cases, **T**.
-This is followed by T test cases where each test case is defined by 2 lines:
+The first line of the input gives the number of test cases, **T**. This is
+followed by T test cases where each test case is defined by 2 lines:
 
-1. The first line gives a positive number **N**:
-   the number of numbers in the list and
-2. The second line contains a list of **N** positive integers |Ki|,
-   sorted in non-decreasing order.
+1. The first line gives a positive number **N**: the number of numbers in the
+   list and
+2. The second line contains a list of **N** positive integers |Ki|, sorted in
+   non-decreasing order.
 
 .. |Ki| raw:: html
 
@@ -44,12 +44,11 @@ This is followed by T test cases where each test case is defined by 2 lines:
 
 Output
 ------
-For each test case, output one line containing ``Case #x: y``,
-where ``x`` is the test case number (starting from 1)
-and ``y`` is the final encoded number.
+For each test case, output one line containing ``Case #x: y``, where ``x`` is
+the test case number (starting from 1) and ``y`` is the final encoded number.
 
-Since the output can be a really big number, we only ask you to output
-the remainder of dividing the result by the prime |10^9| + 7 (1000000007).
+Since the output can be a really big number, we only ask you to output the
+remainder of dividing the result by the prime |10^9| + 7 (1000000007).
 
 Limits
 ------
@@ -82,7 +81,8 @@ Sample
 
 **Explanation for the sample input**
 
-1. | Find all subsets and get the difference between largest & smallest numbers:
+1. | Find all subsets and get the difference between largest & smallest
+     numbers:
    | [3], largest-smallest = 3 - 3 = 0.
    | [6], largest-smallest = 6 - 6 = 0.
    | [7], largest-smallest = 7 - 7 = 0.
