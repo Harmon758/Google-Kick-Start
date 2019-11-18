@@ -107,6 +107,10 @@ as it [uses Python 3.5](https://code.google.com/codejam/resources/faq#language-d
 - [Problem C. Addition](2014/Round%20A/Problem%20C)
 - [Problem D. Cut Tiles](2014/Round%20A/Problem%20D)
 
+### [Round B](2014/Round%20B)
+
+- [Problem A. Password Attacker](2014/Round%20B/Problem%20A)
+
 ### [Round D](2014/Round%20D)
 
 - [Problem B. GBus count](2014/Round%20D/Problem%20B)
