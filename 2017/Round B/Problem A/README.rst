@@ -20,9 +20,7 @@ best encode the numbers:
    also considered a subset.
 2. Then add up all the differences to get the final encoded number.
 3. As the number may be large, output the number modulo
-   |10^9| + 7 (1000000007).
-
-.. |10^9| replace:: 10\ :sup:`9`
+   10\ :sup:`9` + 7 (1000000007).
 
 The professor has shared an example and its explanation below. Given a list of
 numbers, can you help the professor build an efficient function to compute the
@@ -48,7 +46,7 @@ For each test case, output one line containing ``Case #x: y``, where ``x`` is
 the test case number (starting from 1) and ``y`` is the final encoded number.
 
 Since the output can be a really big number, we only ask you to output the
-remainder of dividing the result by the prime |10^9| + 7 (1000000007).
+remainder of dividing the result by the prime 10\ :sup:`9` + 7 (1000000007).
 
 Limits
 ------
@@ -101,5 +99,5 @@ Sample
 2. | Find the sum of the differences calculated in the previous step:
    | 3+4+6+1+3+2+4+6+6+3+6
    | = 44.
-3. | Find the answer modulo |10^9| + 7 (1000000007):
+3. | Find the answer modulo 10\ :sup:`9` + 7 (1000000007):
    | 44 % 1000000007 = 44
