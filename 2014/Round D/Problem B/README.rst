@@ -7,28 +7,26 @@
 
 Problem
 -------
-There exist some cities that are built along a straight road.
-The cities are numbered 1, 2, 3... from left to right.
+There exist some cities that are built along a straight road. The cities are
+numbered 1, 2, 3... from left to right.
 
-There are **N** GBuses that operate along this road.
-For each GBus, we know the range of cities that it serves:
-the i-th gBus serves the cities with numbers between
-**A**\ |i| and **B**\ |i|, inclusive.
+There are **N** GBuses that operate along this road. For each GBus, we know the
+range of cities that it serves: the i-th gBus serves the cities with numbers
+between **A**\ |i| and **B**\ |i|, inclusive.
 
 .. |i| raw:: html
 
     <b><sub>i</sub></b>
 
-We are interested in a particular subset of **P** cities.
-For each of those cities, we need to find out how many GBuses serve that
-particular city.
+We are interested in a particular subset of **P** cities. For each of those
+cities, we need to find out how many GBuses serve that particular city.
 
 Input
 -----
 
-The first line of the input gives the number of test cases, **T**.
-Then, **T** test cases follow; each case is separated from the next by one
-|blank| line. (Notice that this is unusual for Kickstart data sets.)
+The first line of the input gives the number of test cases, **T**. Then, **T**
+test cases follow; each case is separated from the next by one |blank| line.
+(Notice that this is unusual for Kickstart data sets.)
 
 .. |blank| raw:: html
 
@@ -38,10 +36,10 @@ In each test case:
 
 - The first line contains one integer **N**: the number of GBuses.
 - The second line contains 2\ **N** integers representing the ranges of cities
-  that the buses serve, in the form **A**\ |1| **B**\ |1|
-  **A**\ |2| **B**\ |2| **A**\ |3| **B**\ |3| ... **A**\ |N| **B**\ |N|.
-  That is, the first GBus serves the cities numbered from
-  **A**\ |1| to **B**\ |1| (inclusive), and so on.
+  that the buses serve, in the form **A**\ |1| **B**\ |1| **A**\ |2| **B**\ |2|
+  **A**\ |3| **B**\ |3| ... **A**\ |N| **B**\ |N|.
+  That is, the first GBus serves the cities numbered from **A**\ |1| to
+  **B**\ |1| (inclusive), and so on.
 - The third line contains one integer **P**: the number of cities we are
   interested in, as described above. (Note that this is not necessarily the
   same as the total number of cities in the problem, which is not given.)
@@ -129,12 +127,8 @@ Case #2: 3 3 4\ |newline|
 
     </pre>
 
-In Sample Case #1, there are four GBuses.
-The first serves cities 15 through 25,
-the second serves cities 30 through 35,
-the third serves cities 45 through 50,
-and the fourth serves cities 10 through 20.
-City 15 is served by the first and fourth buses,
-so the first number in our answer list is 2.
-City 25 is served by only the first bus,
-so the second number in our answer list is 1.
+In Sample Case #1, there are four GBuses. The first serves cities 15 through
+25, the second serves cities 30 through 35, the third serves cities 45 through
+50, and the fourth serves cities 10 through 20. City 15 is served by the first
+and fourth buses, so the first number in our answer list is 2. City 25 is
+served by only the first bus, so the second number in our answer list is 1.
