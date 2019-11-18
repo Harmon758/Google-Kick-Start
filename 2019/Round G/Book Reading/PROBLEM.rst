@@ -77,7 +77,6 @@ Sample
     4 8 15 16 23 42
     1
 
-
 In sample case #1, the first reader will read the pages numbered 2, 4, 6, and
 10. Note that the page numbered 8 will not be read since it is torn out. The
 second reader will read the pages numbered 3, 6, and 9. Therefore, the total
