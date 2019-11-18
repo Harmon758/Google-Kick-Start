@@ -1,9 +1,9 @@
 Analysis
 --------
-| For each query[**L**, **R**], we have to figure out if it is possible to
-  make a palindrome from substring[**L**, **R**] of the original block string.
-| For any substring, we can create all possible permutations of it and check
-  if any of those is a palindrome. For a substring of length *l*, in the worst
+| For each query[**L**, **R**], we have to figure out if it is possible to make
+  a palindrome from substring[**L**, **R**] of the original block string.
+| For any substring, we can create all possible permutations of it and check if
+  any of those is a palindrome. For a substring of length *l*, in the worst
   case there would be |Factorial(l)| permutations, and to check if a string of
   length *l* is palindrome is O(*l*). So the cost of each query would be
   O(**N**\*Factorial(**N**)) and thus wouldn't fit within the time limit.
@@ -27,11 +27,11 @@ Analysis
 
 Test set 1 (Visible)
 --------------------
-For each query, we can count the frequencies of all characters in the
-substring and decide if it is possible to make a palindrome or not.
-The complexity of solving each query in this approach is the length of the
-substring, which is O(**N**). Total complexity of this approach is
-O(**N** × **Q**), which will be sufficient for test set 1.
+For each query, we can count the frequencies of all characters in the substring
+and decide if it is possible to make a palindrome or not. The complexity of
+solving each query in this approach is the length of the substring, which is
+O(**N**). Total complexity of this approach is O(**N** × **Q**), which will be
+sufficient for test set 1.
 
 Test set 2 (Hidden)
 -------------------
