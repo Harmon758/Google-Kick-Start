@@ -26,6 +26,10 @@ as it [uses Python 3.5](https://code.google.com/codejam/resources/faq#language-d
 
 - [Book Reading](2019/Round%20G/Book%20Reading)
 
+### [Round H](2019/Round%20H)
+
+- [H-index](2019/Round%20H/H-index)
+
 ## [2018](2018)
 
 ### [Practice Round](https://code.google.com/codejam/contest/4374486/dashboard)
