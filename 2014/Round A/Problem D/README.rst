@@ -7,15 +7,12 @@
 
 Problem
 -------
-Enzo is doing renovation for his new house.
-The most difficult part is to buy exactly the right number of tiles.
-He wants **N** tiles of different sizes.
-Of course they have to be cut from the tiles he bought.
-All the required tiles are square.
-The lengths of side of the tiles are |2S1|, |2S2|, ..., |2SN|.
-He can only buy a lot of tiles sized **M**\*\ **M**,
-and he decides to only cut tiles parallel to their sides for convenience.
-How many tiles does he need to buy?
+Enzo is doing renovation for his new house. The most difficult part is to buy
+exactly the right number of tiles. He wants **N** tiles of different sizes. Of
+course they have to be cut from the tiles he bought. All the required tiles are
+square. The lengths of side of the tiles are |2S1|, |2S2|, ..., |2SN|. He can
+only buy a lot of tiles sized **M**\*\ **M**, and he decides to only cut tiles
+parallel to their sides for convenience. How many tiles does he need to buy?
 
 .. |2S1| raw:: html
 
@@ -31,12 +28,10 @@ How many tiles does he need to buy?
 
 Input
 -----
-The first line of the input gives the number of test cases: **T**.
-**T** lines follow.
-Each line start with the number **N** and **M**, indicating
-the number of required tiles and the size of the big tiles Enzo can buy.
-**N** numbers follow:
-|S1|, |S2|, ... |SN|, showing the sizes of the required tiles.
+The first line of the input gives the number of test cases: **T**. **T** lines
+follow. Each line start with the number **N** and **M**, indicating the number
+of required tiles and the size of the big tiles Enzo can buy. **N** numbers
+follow: |S1|, |S2|, ... |SN|, showing the sizes of the required tiles.
 
 .. |S1| raw:: html
 
@@ -52,9 +47,9 @@ the number of required tiles and the size of the big tiles Enzo can buy.
 
 Output
 ------
-For each test case, output one line containing "Case #x: y",
-where x is the test case number (starting from 1)
-and y is the number of the big tiles Enzo need [sic] to buy.
+For each test case, output one line containing "Case #x: y", where x is the
+test case number (starting from 1) and y is the number of the big tiles Enzo
+need [sic] to buy.
 
 Limits
 ------
