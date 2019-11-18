@@ -8,23 +8,23 @@
 Problem
 -------
 Codejamon trainers are actively looking for monsters, but if you are not a
-trainer, these monsters could be really dangerous for you.
-You might want to find safe places that do not have any monsters!
+trainer, these monsters could be really dangerous for you. You might want to
+find safe places that do not have any monsters!
 
 Consider our world as a grid, and some of the cells have been occupied by
 monsters. We define a *safe square* as a grid-aligned **D** × **D** square of
-grid cells (with **D** ≥ 1) that does not contain any monsters. Your task is
-to find out how many safe squares (of any size) we have in the entire world.
+grid cells (with **D** ≥ 1) that does not contain any monsters. Your task is to
+find out how many safe squares (of any size) we have in the entire world.
 
 Input
 -----
-The first line of the input gives the number of test cases, **T**.
-**T** test cases follow. Each test case starts with a line with three
-integers, **R**, **C**, and **K**. The grid has **R** rows and **C** columns,
-and contains **K** monsters. **K** more lines follow; each contains two
-integers **R**\ |i| and **C**\ |i|, indicating the row and column that the
-i-th monster is in. (Rows are numbered from top to bottom, starting from 0;
-columns are numbered from left to right, starting from 0.)
+The first line of the input gives the number of test cases, **T**. **T** test
+cases follow. Each test case starts with a line with three integers, **R**,
+**C**, and **K**. The grid has **R** rows and **C** columns, and contains **K**
+monsters. **K** more lines follow; each contains two integers **R**\ |i| and
+**C**\ |i|, indicating the row and column that the i-th monster is in. (Rows
+are numbered from top to bottom, starting from 0; columns are numbered from
+left to right, starting from 0.)
 
 .. |i| raw:: html
 
@@ -32,16 +32,16 @@ columns are numbered from left to right, starting from 0.)
 
 Output
 ------
-For each test case, output one line containing ``Case #x: y``,
-where ``x`` is the test case number (starting from 1)
-and ``y`` is the the total number of safe zones for this test case.
+For each test case, output one line containing ``Case #x: y``, where ``x`` is
+the test case number (starting from 1) and ``y`` is the the total number of
+safe zones for this test case.
 
 Limits
 ------
 1 ≤ **T** ≤ 20.
 
-(**R**\ |i|, **C**\ |i|) ≠ (**R**\ |j|, **C**\ |j|) for i ≠ j.
-(No two monsters are in the same grid cell.)
+(**R**\ |i|, **C**\ |i|) ≠ (**R**\ |j|, **C**\ |j|) for i ≠ j. (No two monsters
+are in the same grid cell.)
 
 0 ≤ **R**\ |i| < **R**, i from 1 to **K**
 
@@ -107,5 +107,5 @@ The grid of sample case #2 is:
 | ``1 0 0 0 1 0 0 0 0 1 1``
 ``0 0 0 0 1 0 0 0 0 0 1``
 
-Note that sample case #2 will only appear in the Large dataset.
-It has 51 safe squares: 32 1x1, 13 2x2, 5 3x3, and 1 4x4.
+Note that sample case #2 will only appear in the Large dataset. It has 51 safe
+squares: 32 1x1, 13 2x2, 5 3x3, and 1 4x4.
