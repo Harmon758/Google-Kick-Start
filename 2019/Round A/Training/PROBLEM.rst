@@ -1,10 +1,9 @@
 Problem
 -------
-As the football coach at your local school, you have been tasked with picking
-a team of exactly **P** students to represent your school.
-There are **N** students for you to pick from.
-The i-th student has a *skill rating* **S**\ |i|,
-which is a positive integer indicating how skilled they are.
+As the football coach at your local school, you have been tasked with picking a
+team of exactly **P** students to represent your school. There are **N**
+students for you to pick from. The i-th student has a *skill rating*
+**S**\ |i|, which is a positive integer indicating how skilled they are.
 
 .. |i| raw:: html
 
@@ -22,19 +21,17 @@ coaching you need to give before you are able to pick a fair team.
 
 Input
 -----
-The first line of the input gives the number of test cases, **T**.
-**T** test cases follow.
-Each test case starts with a line containing the two integers **N** and **P**,
-the number of students and the number of students you need to pick,
-respectively. Then, another line follows containing **N** integers **S**\ |i|;
-the i-th of these is the skill of the i-th student.
+The first line of the input gives the number of test cases, **T**. **T** test
+cases follow. Each test case starts with a line containing the two integers
+**N** and **P**, the number of students and the number of students you need to
+pick, respectively. Then, another line follows containing **N** integers
+**S**\ |i|; the i-th of these is the skill of the i-th student.
 
 Output
 ------
-For each test case, output one line containing ``Case #x: y``,
-where ``x`` is the test case number (starting from 1)
-and ``y`` is the minimum number of hours of coaching needed,
-before you can pick a fair team of **P** students.
+For each test case, output one line containing ``Case #x: y``, where ``x`` is
+the test case number (starting from 1) and ``y`` is the minimum number of hours
+of coaching needed, before you can pick a fair team of **P** students.
 
 Limits
 ------
@@ -68,15 +65,14 @@ Sample
     7 7 1 7 7
 
 In Sample Case #1, you can spend a total of 6 hours training the first student
-and 8 hours training the second one.
-This gives the first, second and third students a skill level of 9.
-This is the minimum time you can spend, so the answer is 14.
+and 8 hours training the second one. This gives the first, second and third
+students a skill level of 9. This is the minimum time you can spend, so the
+answer is 14.
 
-In Sample Case #2, you can already pick a fair team
-(the first and second student) without having to do any coaching,
-so the answer is 0.
+In Sample Case #2, you can already pick a fair team (the first and second
+student) without having to do any coaching, so the answer is 0.
 
-In Sample Case #3, **P** = **N**, so every student will be on your team.
-You have to spend 6 hours training the third student,
-so that they have a skill of 7, like everyone else.
-This is the minimum time you can spend, so the answer is 6.
+In Sample Case #3, **P** = **N**, so every student will be on your team. You
+have to spend 6 hours training the third student, so that they have a skill of
+7, like everyone else. This is the minimum time you can spend, so the answer is
+6.
