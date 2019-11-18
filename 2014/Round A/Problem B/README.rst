@@ -7,8 +7,8 @@
 
 Problem
 -------
-2048 is a famous single-player game in which the objective is to slide tiles
-on a grid to combine them and create a tile with the number 2048.
+2048 is a famous single-player game in which the objective is to slide tiles on
+a grid to combine them and create a tile with the number 2048.
 
 2048 is played on a simple 4 x 4 grid with tiles that slide smoothly when a
 player moves them. For each movement, the player can choose to move all tiles
@@ -36,23 +36,23 @@ like after all tiles move to one specific direction on a given board.
 
 Input
 -----
-The first line of the input gives the number of test cases, **T**.
-**T** test cases follow. The first line of each test case gives the side
-length of the board, **N**, and the direction the tiles will move to, **DIR**.
-**N** and **DIR** are separated by a single space.
-**DIR** will be one of four strings: "left", "right", "up", or "down".
+The first line of the input gives the number of test cases, **T**. **T** test
+cases follow. The first line of each test case gives the side length of the
+board, **N**, and the direction the tiles will move to, **DIR**. **N** and
+**DIR** are separated by a single space. **DIR** will be one of four strings:
+"left", "right", "up", or "down".
 
-The next **N** lines each contain **N** space-separated integers describing
-the original state of the board. Each line represents a row of the board
-(from top to bottom); each integer represents the value of a tile
-(or 0 if there is no number at that position).
+The next **N** lines each contain **N** space-separated integers describing the
+original state of the board. Each line represents a row of the board (from top
+to bottom); each integer represents the value of a tile (or 0 if there is no
+number at that position).
 
 Output
 ------
-For each test case, output one line containing "Case #x:",
-where x is the test case number (starting from 1).
-Then output **N** more lines, each containing **N** space-separated integers
-which describe the board after the move in the same format as the input.
+For each test case, output one line containing "Case #x:", where x is the test
+case number (starting from 1). Then output **N** more lines, each containing
+**N** space-separated integers which describe the board after the move in the
+same format as the input.
 
 Limits
 ------
