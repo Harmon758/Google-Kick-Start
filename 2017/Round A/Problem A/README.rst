@@ -18,9 +18,7 @@ Two squares are different if and only if their sets of four dots are different.
 
 Mr. Panda has just been given a grid with **R** rows and **C** columns of dots.
 How many different squares can he find in this grid? Since the number might be
-very large, please output the answer modulo |10^9| + 7 (1000000007).
-
-.. |10^9| replace:: 10\ :sup:`9`
+very large, please output the answer modulo 10\ :sup:`9` + 7 (1000000007).
 
 Input
 -----
@@ -45,8 +43,8 @@ Small dataset
 
 Large dataset
 -------------
-| 2 ≤ **R** ≤ |10^9|.
-| 2 ≤ **C** ≤ |10^9|.
+| 2 ≤ **R** ≤ 10\ :sup:`9`.
+| 2 ≤ **C** ≤ 10\ :sup:`9`.
 
 Sample
 ------
