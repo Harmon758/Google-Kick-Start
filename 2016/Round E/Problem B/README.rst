@@ -17,15 +17,14 @@ this property, choose the one that maximizes the number of 1 digits.
 
 Input
 -----
-The first line of the input gives the number of test cases, **T**.
-**T** test cases follow.
-Each test case consists of one line with an integer **N**.
+The first line of the input gives the number of test cases, **T**. **T** test
+cases follow. Each test case consists of one line with an integer **N**.
 
 Output
 ------
-For each test case, output one line containing ``Case #x: y``,
-where ``x`` is the test case number (starting from 1)
-and ``y`` is the base described in the problem statement.
+For each test case, output one line containing ``Case #x: y``, where ``x`` is
+the test case number (starting from 1) and ``y`` is the base described in the
+problem statement.
 
 Limits
 ------
@@ -52,6 +51,6 @@ Sample
 
 In case #1, the optimal solution is to write 3 as 11 in base 2.
 
-In case #2, the optimal solution is to write 13 as 111 in base 3.
-Note that we could also write 13 as 11 in base 12,
-but neither of those representations has as many 1s.
+In case #2, the optimal solution is to write 13 as 111 in base 3. Note that we
+could also write 13 as 11 in base 12, but neither of those representations has
+as many 1s.
