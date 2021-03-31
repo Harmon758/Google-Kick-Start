@@ -5,6 +5,12 @@
 Previously known as [Google Code Jam Kickstart](https://code.google.com/codejam/kickstart/)
 and [Google APAC University Graduates Test](https://code.google.com/codejam/apactest)
 
+## [2020](2020)
+
+### [Round A](2020/Round%20A)
+
+- [Allocation](2020/Round%20A/Allocation)
+
 ## [2019](2019)
 
 Note: F-strings are not supported on the new platform,
