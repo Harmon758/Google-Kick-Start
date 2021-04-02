@@ -126,6 +126,7 @@ Previously known as Google of Greater China Test for New Grads of 2014
 
 - [Moist](2013/Practice%20Round/Moist)
 - [Captain Hammer](2013/Practice%20Round/Captain%20Hammer)
+- [Bad Horse](2013/Practice%20Round/Bad%20Horse)
 
 ### [Round A](2013/Round%20A)
 
