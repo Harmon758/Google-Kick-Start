@@ -1,10 +1,3 @@
-.. _Problem A. Read Phone Number:
-    https://code.google.com/codejam/contest/2924486/dashboard#s=p0
-
-===============================
-`Problem A. Read Phone Number`_
-===============================
-
 Problem
 -------
 Do you know how to read the phone numbers in English? Now let me tell you.
