@@ -56,7 +56,9 @@ whose words are separated by a space.
 
 Limits
 ------
-1 ≤ **T** ≤ 100.
+| Time limit: 30 seconds per test set.
+| Memory limit: 1GB.
+| 1 ≤ **T** ≤ 100.
 
 Small dataset
 ~~~~~~~~~~~~~
