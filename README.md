@@ -130,6 +130,7 @@ Previously known as Google of Greater China Test for New Grads of 2014
 
 ### [Round A](2013/Round%20A)
 
+- [Sorting](2013/Round%20A/Sorting)
 - [Read Phone Number](2013/Round%20A/Read%20Phone%20Number)
 
 ### [Round B](2013/Round%20B)
