@@ -26,4 +26,4 @@ for x in range(1, T + 1):
             count = 1
         numbers = numbers[divider:]
     y = ' '.join(y)
-    print(f"Case #{x}: {y}")
+    print(f"Case #{x}: {y}", flush=True)
