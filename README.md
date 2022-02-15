@@ -2,6 +2,12 @@
 
 # [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
 
+## [2021](2021)
+
+### [Round A](2021/Round%20A)
+
+- [K-Goodness String](2021/Round%20A/K-Goodness%20String)
+
 ## [2020](2020)
 
 ### [Round A](2020/Round%20A)
