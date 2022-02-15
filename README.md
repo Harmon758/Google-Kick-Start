@@ -2,9 +2,6 @@
 
 # [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
 
-Previously known as [Google Code Jam Kickstart](https://code.google.com/codejam/kickstart/)
-and [Google APAC University Graduates Test](https://code.google.com/codejam/apactest)
-
 ## [2020](2020)
 
 ### [Round A](2020/Round%20A)
@@ -35,7 +32,9 @@ and [Google APAC University Graduates Test](https://code.google.com/codejam/apac
 
 ## [2018](2018)
 
-### [Practice Round](https://code.google.com/codejam/contest/4374486/dashboard)
+Previously known as Google Kickstart 2018
+
+### Practice Round
 
 - Problem A. GBus count (See [2014 Round D Problem B](2014/Round%20D/Problem%20B))
 
@@ -46,7 +45,9 @@ and [Google APAC University Graduates Test](https://code.google.com/codejam/apac
 
 ## [2017](2017)
 
-### [Practice Round](https://code.google.com/codejam/contest/6304486/dashboard)
+Previously known as Google Kickstart 2017
+
+### Practice Round
 
 - Problem A. Country Leader (See [2016 Round A Problem A](2016/Round%20A/Problem%20A))
 - Problem B. Vote (See [2016 Round D Problem A](2016/Round%20D/Problem%20A))
@@ -60,7 +61,7 @@ and [Google APAC University Graduates Test](https://code.google.com/codejam/apac
 
 - [Problem A. Math Encoder](2017/Round%20B/Problem%20A)
 
-### [Practice Round 2](https://code.google.com/codejam/contest/12254486/dashboard)
+### Practice Round 2
 
 - Problem A. Diwali lightings (See [2016 Round E Problem A](2016/Round%20E/Problem%20A))
 - Problem B. Safe Squares (See [2016 Round C Problem B](2016/Round%20C/Problem%20B))
@@ -69,7 +70,9 @@ and [Google APAC University Graduates Test](https://code.google.com/codejam/apac
 
 ## [2016](2016)
 
-### [Practice Round](https://code.google.com/codejam/contest/5254486/dashboard)
+Previously known as Google APAC 2016 University Graduates Test
+
+### Practice Round
 
 - Problem A. Lazy Spelling Bee (See [2015 Round E Problem A](2015/Round%20E/Problem%20A))
 
@@ -97,11 +100,15 @@ and [Google APAC University Graduates Test](https://code.google.com/codejam/apac
 
 ## [2015](2015)
 
+Previously known as Google APAC 2015 University Graduates Test
+
 ### [Round E](2015/Round%20E)
 
 - [Problem A. Lazy Spelling Bee](2015/Round%20E/Problem%20A)
 
 ## [2014](2014)
+
+Previously known as Google APAC 2014 University Graduates Test
 
 ### [Round A](2014/Round%20A)
 
