@@ -2,6 +2,12 @@
 
 # [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
 
+## [2022](2022)
+
+### [Round A](2022/Round%20A)
+
+- [Speed Typing](2022/Round%20A/Speed%20Typing)
+
 ## [2021](2021)
 
 ### [Round A](2021/Round%20A)
