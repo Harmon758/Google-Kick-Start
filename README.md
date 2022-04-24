@@ -7,6 +7,7 @@
 ### [Round A](2022/Round%20A)
 
 - [Speed Typing](2022/Round%20A/Speed%20Typing)
+- [Challenge Nine](2022/Round%20A/Challenge%20Nine)
 
 ## [2021](2021)
 
