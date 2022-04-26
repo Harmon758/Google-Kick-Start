@@ -10,4 +10,4 @@ for x in range(1, T + 1):
             break
         else:
             y += 1
-    print("Case #{}: {}". format(x, y), flush = True)
+    print(f"Case #{x}: {y}", flush = True)
