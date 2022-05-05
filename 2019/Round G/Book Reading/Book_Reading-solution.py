@@ -15,4 +15,4 @@ for x in range(1, T + 1):
             read = sum(pages[page] for page in range(R_i, N + 1, R_i))
             readers[R_i] = read
             y += read
-    print("Case #{}: {}".format(x, y), flush = True)
+    print(f"Case #{x}: {y}", flush = True)
