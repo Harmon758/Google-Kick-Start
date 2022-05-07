@@ -18,4 +18,4 @@ for x in range(1, T + 1):
             else:
                 new_citations += 1
         y += ' ' + str(h)
-    print("Case #{}:{}".format(x, y), flush = True)
+    print(f"Case #{x}:{y}", flush = True)
