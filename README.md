@@ -19,6 +19,10 @@
 
 - [K-Goodness String](2021/Round%20A/K-Goodness%20String)
 
+### [Round B](2021/Round%20B)
+
+- [Increasing Substring](2021/Round%20B/Increasing%20Substring)
+
 ## [2020](2020)
 
 ### [Round A](2020/Round%20A)
