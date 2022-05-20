@@ -9,6 +9,10 @@
 - [Speed Typing](2022/Round%20A/Speed%20Typing)
 - [Challenge Nine](2022/Round%20A/Challenge%20Nine)
 
+### [Round B](2022/Round%20B)
+
+- [Infinity Area](2022/Round%20B/Infinity%20Area)
+
 ## [2021](2021)
 
 ### [Round A](2021/Round%20A)
