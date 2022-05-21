@@ -29,6 +29,10 @@
 
 - [Allocation](2020/Round%20A/Allocation)
 
+### [Round B](2020/Round%20B)
+
+- [Bike Tour](2020/Round%20B/Bike%20Tour)
+
 ## [2019](2019)
 
 ### [Practice Round](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051060)
