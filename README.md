@@ -13,6 +13,10 @@
 
 - [Infinity Area](2022/Round%20B/Infinity%20Area)
 
+### [Round C](2022/Round%20C)
+
+- [New Password](2022/Round%20C/New%20Password)
+
 ## [2021](2021)
 
 ### [Round A](2021/Round%20A)
