@@ -16,6 +16,7 @@
 ### [Round C](2022/Round%20C)
 
 - [New Password](2022/Round%20C/New%20Password)
+- [Range Partition](2022/Round%20C/Range%20Partition)
 
 ## [2021](2021)
 
