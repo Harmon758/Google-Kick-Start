@@ -3,7 +3,7 @@
 A company named Gooli has issued a new policy that their employees account
 passwords must contain:
 
-1. At least 7 characters.
+1. At least $7$ characters.
 2. At least one uppercase English alphabet letter.
 3. At least one lowercase English alphabet letter.
 4. At least one digit.
